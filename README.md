@@ -27,13 +27,20 @@ If you'd rather not use the plugin:
 claude mcp add --transport http wasmartsender https://public-api.wsmartsender.com/mcp
 ```
 
+## Codex
+
+```
+codex mcp add wasmartsender --url https://public-api.wsmartsender.com/mcp
+codex mcp login wasmartsender
+```
+
 ## ChatGPT
 
 Find **WA Smart Sender** in the Apps directory. Or, with developer mode on, go to **Settings → Apps → Create**, paste the address, choose OAuth, and connect.
 
 ## Cursor, VS Code and other MCP clients
 
-Add a remote (HTTP) MCP server with the address above. The client opens your browser so you can sign in.
+Add a remote (HTTP) MCP server with the address above. The client opens your browser so you can sign in. When you connect, choose **Read only** or **Read and change**.
 
 ## What it can do
 

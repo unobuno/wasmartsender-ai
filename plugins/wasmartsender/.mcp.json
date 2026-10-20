@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wasmartsender": {
+      "type": "http",
+      "url": "https://public-api.wsmartsender.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "wasmartsender",
+  "owner": {
+    "name": "WA Smart Sender",
+    "email": "wasmartsender@gmail.com",
+    "url": "https://wsmartsender.com"
+  },
+  "metadata": {
+    "description": "Official WA Smart Sender plugins: run your WhatsApp Business inbox, campaigns, contacts and AI agents from Claude."
+  },
+  "plugins": [
+    {
+      "name": "wasmartsender",
+      "source": "./plugins/wasmartsender",
+      "description": "Connect your WA Smart Sender workspace to Claude Code: inbox, campaigns, contacts, templates, AI agents and analytics for the official WhatsApp Business API.",
+      "category": "productivity",
+      "homepage": "https://wsmartsender.com/developers"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wasmartsender",
+  "version": "1.0.0",
+  "description": "Run your WhatsApp Business account from Claude: read and answer conversations, manage contacts, send approved templates, launch campaigns, build AI agents and check analytics in your WA Smart Sender workspace.",
+  "author": {
+    "name": "WA Smart Sender",
+    "email": "wasmartsender@gmail.com",
+    "url": "https://wsmartsender.com"
+  },
+  "homepage": "https://wsmartsender.com/developers",
+  "repository": "https://github.com/unobuno/wasmartsender-ai",
+  "license": "MIT",
+  "keywords": ["whatsapp", "whatsapp-business", "crm", "campaigns", "customer-support", "mcp"]
+}

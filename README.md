@@ -46,4 +46,4 @@ When you connect from an app directory, your assistant gets the everyday tools: 
 - Every action is recorded in your workspace's audit log.
 - You can disconnect at any time in **Settings → API keys**, and access stops immediately.
 
-Privacy policy: https://wsmartsender.com/privacy · Terms: https://wsmartsender.com/terms · Support: support@wsmartsender.com
+Privacy policy: https://wsmartsender.com/privacy · Terms: https://wsmartsender.com/terms · Support: hello@wsmartsender.com
